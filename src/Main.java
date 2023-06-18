@@ -22,7 +22,6 @@ public class Main {
         for (int i=0; i < array1.length; i++) {
             System.out.println(array1[i]);
         }
-
         //       System.out.println(Arrays.toString(array1));
 
 // Multiplication  Multiplication  Multiplication  Multiplication  Multiplication  Multiplication
